@@ -1,4 +1,4 @@
-layout_spectrum: 0.2812954902183264
+name: magicsaves
 opengraph:
   image: null
   type: null
@@ -9,32 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.4991568
-  lightness: 0.3777403
   brandStrength: 0.851602
+  lightness: 0.3777403
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.7681282
-typography_spectrum: 0.06687565939500928
+    - '#444138'
+    - '#1F1D17'
+    - '#B4A488'
+    - '#9A5C38'
+    - '#763817'
+  rhythmicContrast: 0.737774
+typography_spectrum: 0.1214165
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.886172
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: magicsaves
