@@ -1,8 +1,7 @@
 name: magicsaves
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.886172
+typography_spectrum: 0.1214165
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4991568
-  brandStrength: 0.851602
-  lightness: 0.3777403
   brandColors:
     - '#444138'
     - '#1F1D17'
     - '#B4A488'
     - '#9A5C38'
     - '#763817'
+  brandStrength: 0.851602
+  lightness: 0.3777403
+  saturation: 0.4991568
   rhythmicContrast: 0.737774
-typography_spectrum: 0.1214165
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.886172
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
