@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[magicsaves]]></title>
         <description><![CDATA[magicsaves]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/magicsaves/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 22:08:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 22:08:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magicsaves/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Time for a new product.....]]></title>
+            <description><![CDATA[<article><h1>Time for a new product.....</h1><p>New technocracy. Works like a dream. Bink, bink, with the thumb... and a little flip. :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9034204ec067078a625c22f585135e8b27ef7352.jpg"></article>]]></description>
+            <link>https://coolotis.wordpress.com/2016/02/03/time-for-a-new-product/</link>
+            <guid isPermaLink="false">70913cd1-b02f-4c73-94dc-072822eee339</guid>
+            <pubDate>Thu, 11 Feb 2016 22:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://coolotis.files.wordpress.com/2016/02/walkerttgf.jpg?w=900">]]></description>
-            <link>undefined3397e3b3-1bdf-433c-9dc3-e2f00f010400/index.html</link>
+            <link>https://thegrid.ai/magicsaves/3397e3b3-1bdf-433c-9dc3-e2f00f010400/index.html</link>
             <guid isPermaLink="false">3397e3b3-1bdf-433c-9dc3-e2f00f010400</guid>
             <pubDate>Thu, 11 Feb 2016 22:07:43 GMT</pubDate>
         </item>
